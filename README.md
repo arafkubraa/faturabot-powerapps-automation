@@ -1,5 +1,21 @@
 # Enterprise Invoice Automation System
 
+# Enterprise Invoice Automation System
+
+<p align="center">
+  <img src="automationimg.png" width="900">
+</p>
+
+...
+
+## Screenshots
+
+### Microsoft Power Apps Automation
+
+<p align="center">
+  <img src="IMG_0726.jpg" width="900">
+</p>
+
 > A Windows desktop automation application developed to streamline invoice processing workflows for enterprise departments using Microsoft Power Apps.
 
 > **Note:** This repository is intended for portfolio purposes only. The source code is private due to commercial confidentiality.
