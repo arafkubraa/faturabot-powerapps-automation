@@ -1,9 +1,8 @@
 # Enterprise Invoice Automation System
 
-# Enterprise Invoice Automation System
 
 <p align="center">
-  <img src="automationimg.png" width="900">
+  <img src="automation.png" width="900">
 </p>
 
 ...
